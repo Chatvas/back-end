@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chatvas/back-end/issues"
   },
-  "homepage": "https://github.com/Chatvas/back-end#readme"
+  "homepage": "https://github.com/Chatvas/back-end#readme",
+  "dependencies": {
+    "ws": "^7.2.0"
+  }
 }
